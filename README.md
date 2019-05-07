@@ -1,5 +1,5 @@
 # nodekb
 
-Install node latest version
-configure mongooes
-install nodemon
+- Install node latest version
+- configure mongooes
+- install nodemon
